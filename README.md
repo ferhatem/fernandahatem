@@ -1,35 +1,3 @@
-# fernandahatem
-About me 
-### Hi there! 👋 I'm Fernanda Hatem
-
-🧪 **QA Tester | Growing QA Automation Engineer**
-
-With **4 years of experience** in the Quality Assurance field, I'm passionate about software testing and continuous learning. My work focuses on ensuring high-quality user experiences through both **manual and automated testing**.
-
-🌱 I’m currently learning and deepening my knowledge in:
-- Test automation frameworks (Selenium, Playwright, Cypress)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- API Testing
-- JavaScript / TypeScript / Python
-
-🔍 I enjoy exploring new tools, testing strategies, and best practices that help improve software quality and team collaboration.
-
-🛠 Tech Stack & Tools:
-- Selenium
-- Mocha
-- TypeScript, Python
-- Git, GitHub Actions, Jira, Azure DevOps
-- Postman
-
-💬 Let’s connect!  
-I'm always open to sharing ideas, learning from others, and collaborating on meaningful projects.
-
----
-
-📫 **Contact me**  
-[LinkedIn](https://www.linkedin.com/in/fernanda-hatem/) | fernandahatem99[at]gmail.com
-
-
 <h2 align="center">Hi there! 👋 I'm Fernanda Hatem</h2>
 
 <p align="center">
@@ -73,8 +41,8 @@ I'm always open to sharing ideas, learning from others, and collaborating on mea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandahatem&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fernandahatem&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferhatem&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ferhatem&theme=radical" width="48%" />
 </p>
 
 ---
